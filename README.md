@@ -5,6 +5,12 @@
 * *Application Servers* : WildFly 9, Glassfish 4
 * *DB* : Mysql 5.x
 
+## This fork will be oriented to work
+
+* in Eclipse IDE (Mars) + JBossTools 
+* with CDI 1.2 and PostgreSQL database
+* and Wildfly 9 exclusively
+
 [Facebook Group (Join!)](https://www.facebook.com/groups/1545570112415771)
 
 <img src="https://s32.postimg.org/vv433fc2t/Dashboard.png"/>
@@ -25,6 +31,10 @@
 
 ## Releases
 
+
+v1.2 forked version (in progress)
+
+Eclipse project facet configuration, CDI 1.2, JPA named queries fixes, full code refactoring, navigation controller 
 
 v1.1.1 (In progress)
 
